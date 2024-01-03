@@ -1,5 +1,6 @@
 import 'package:animal/core/http_client.dart';
-import 'package:animal/cubits/animal_cubit/animal_cubit.dart';
+import 'package:animal/data/cubits/animal_cubit/animal_cubit.dart';
+
 import 'package:animal/data/repositories/bear_repository.dart';
 import 'package:animal/utils/meta_strings.dart';
 import 'package:flutter/material.dart';
